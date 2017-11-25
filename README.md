@@ -1,2 +1,8 @@
 # Improving_Deep_NeuralNets
-Hyperparameter Tuning, Regularization and Optimization for better results from Deep Neural Nets
+Deep neural networks has some disadvantages:
+- They overfit the data
+- Take much longer to train
+
+
+## Initialization
+
