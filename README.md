@@ -23,6 +23,14 @@ We will expriment with the following initialization methods :
 
 ## Regularization
 
+We will experiment with the following approaches : 
+
+-Non regularized approach
+
+-L2 regularization
+
+-Dropout
+
 ## Optimization
 
 Implement various optimization techniques for faster and effiecient learning. Techniques implemented are
