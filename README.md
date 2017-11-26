@@ -25,11 +25,11 @@ We will expriment with the following initialization methods :
 
 We will experiment with the following approaches : 
 
--Non regularized approach
+- Non regularized approach
 
--L2 regularization
+- L2 regularization
 
--Dropout
+- Dropout
 
 ## Optimization
 
